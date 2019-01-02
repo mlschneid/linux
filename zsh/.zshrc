@@ -12,7 +12,7 @@
 #ZSH_THEME="sunrise"
 #ZSH_THEME="theunraveler"
 #ZSH_THEME="ys"
-ZSH_THEME="bullet-train"
+#ZSH_THEME="bullet-train"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -66,6 +66,7 @@ ZSH_THEME="bullet-train"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
+
 plugins=(
   git
 )
