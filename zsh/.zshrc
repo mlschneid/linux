@@ -90,6 +90,9 @@ export LANG=en_US.UTF-8
 export EDITOR='nvim'
 alias vim="nvim"
 
+export PATH="$PATH:/home/mike/.local/bin:/home/mike/.cargo/bin"
+export DOCKER_HOST=tcp://localhost:2375
+
 # Compilation flags
 # export ARCHFLAGS="-arch x86_64"
 
